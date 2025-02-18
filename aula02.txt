@@ -1,0 +1,11 @@
+18/02/25
+
+Property binding -> interpolação em uma propriedade de uma tag HTML
+sintaxe:
+<tag [propriedade] = variavel />
+
+Event Binding -> aplicado sobre as tags com eventos, ex: click da tag button
+sintaxe:
+<tag (propriedade) = "função()" />
+
+ng g c interpolation -> cria a pasta interpolation 

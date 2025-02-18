@@ -1,0 +1,19 @@
+11/02/25
+
+Framework - Angular (utiliza linhas de comando)
+
+SPA - Single Paige Application
+
+ng --version -> verifica a versão do angular (19.0.5)
+
+ng new nome-projeto -> cria projeto Angular
+
+ng serve -o -> roda a aplicação (-o abre o navegador,não necessário)
+
+node modules -> possui todos os pacotes para rodar a aplicação
+
+src/app -> componentização
+
+npm install -> instala os pacotes do node
+
+[node, npm e angular]
