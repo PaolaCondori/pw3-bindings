@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrl: './event-binding.component.css'
 })
 export class EventBindingComponent {
-  exibeTexto = true
+  exibeTexto = false  //false: mostra true: desaparece, p/ ser o contrário coloque !
   
   alertar(){
     alert("Hoje está muito quente, beba água!");
@@ -16,4 +16,5 @@ export class EventBindingComponent {
   exibirTexto(){
     this.exibeTexto = !this.exibeTexto;
   }
+
 }
